@@ -13,6 +13,6 @@ for line in day2:
     
     if( (l[0][3][index1]==l[0][2]) ^ (l[0][3][index2]==l[0][2]) ): #Validation condition
         new_count += 1 #increment counter 
-data.close()
+day2.close()
 
 print(new_count)
