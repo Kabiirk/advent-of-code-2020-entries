@@ -18,7 +18,7 @@ Each line gives the password policy and then the password. The password policy i
 In the above example, ```2``` passwords are valid. The middle password, ```cdefg```, is not; it contains no instances of ```b```, but needs at least ```1```. The first and third passwords are valid: they contain one a or nine c, both within the limits of their respective policies.
 
 How many passwords are valid according to their policies?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day2.py)
+#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day2/Day2.py)
  
 ------
  
@@ -36,4 +36,4 @@ Given the same example list from above:
 2-9 c: ccccccccc is invalid: both position 2 and position 9 contain c.
 ```
 How many passwords are valid according to the new interpretation of the policies?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day2Part2.py)
+#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day2/Day2Part2.py)
