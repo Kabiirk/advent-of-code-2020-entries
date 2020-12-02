@@ -18,3 +18,4 @@ for i in range(0,n-1):
         if (temp2 in s):
             print( str(input_list[i]) + " x " + str(input_list[j]) + " x " + str(temp2) + " = " + str(input_list[i]*input_list[j]*temp2))
         s.add(input_list[j])
+day1.close()
