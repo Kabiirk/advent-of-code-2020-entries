@@ -1,3 +1,5 @@
+import re
+
 day2 = open("input_data/day2.txt", "r")
 
 count = 0
