@@ -15,3 +15,4 @@ for i in input_list:
     if(temp in s):
         print(str(i) + " + " + str(temp) + " = " + str(temp*i) )
     s.add(i)
+    day1.close()
