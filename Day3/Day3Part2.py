@@ -1,22 +1,12 @@
 day3 = open("day3.txt", "r")
 
-count = 0
+#Put file data into list
 terrain = []
-
 for line in day3:
     terrain.append(line.strip())
 day3.close()
 
-length = len(terrain)
-tree_count = 0
-
-i = 0
-for x in terrain[::3]:
-    if(x[i]=="#"):
-        tree_count += 1
-    i = (i+1)%len(x)
-
-
+#Function to calculate Trees Encountered
 def calcTrees(h, v, inp):
   x = 0
   counter = 0
@@ -27,4 +17,10 @@ def calcTrees(h, v, inp):
   return counter
     
 
-print(calcTrees(3,1,terrain))
+a = calcTrees(1,1,terrain)
+b = calcTrees(3,1,terrain)
+c = calcTrees(5,1,terrain)
+d = calcTrees(7,1,terrain)
+e = calcTrees(1,2,terrain)
+
+print(a*b*c*d*e)
