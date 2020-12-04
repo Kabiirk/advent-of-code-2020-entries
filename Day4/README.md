@@ -43,7 +43,7 @@ The fourth passport is missing two fields, ```cid``` and ```byr```. Missing cid 
 According to the above rules, your improved system would report 2 valid passports.
 
 Count the number of valid passports - those that have all required fields. Treat cid as optional. In your batch file, how many passports are valid?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day3/Day3.py)
+#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day4/Day4.py)
 
 ------
 
@@ -52,7 +52,7 @@ The line is moving more quickly now, but you overhear airport security talking a
 
 You can continue to ignore the cid field, but each other field has strict rules about what values are valid for automatic validation:
 ```
-byr (Birth Year) - four digits; at least 1920 and at most 2002.
+byr (Birth Year) - four digits; at least **1920** and at most 2002.
 iyr (Issue Year) - four digits; at least 2010 and at most 2020.
 eyr (Expiration Year) - four digits; at least 2020 and at most 2030.
 hgt (Height) - a number followed by either cm or in:
@@ -115,5 +115,5 @@ eyr:2022
 
 iyr:2010 hgt:158cm hcl:#b6652a ecl:blu byr:1944 eyr:2021 pid:093154719
 ```
-Count the number of valid passports - those that have all required fields and valid values. Continue to treat cid as optional. In your batch file, how many passports are valid?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day3/Day3.py)
+Count the number of valid passports - those that have all required fields and valid values. Continue to treat ```cid``` as optional. In your batch file, how many passports are valid?
+#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day4/Day4Part2.py)
