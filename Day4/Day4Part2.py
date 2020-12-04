@@ -12,7 +12,7 @@ day4.close()
 passports = entries.split("\n\n") # => [string1, string2, ......]
 
 for i in range(len(passports)):
-    passports[i] = passports[i].replace("\n"," ") #each password in now just a 1-liner string with fields separated by space
+    passports[i] = passports[i].replace("\n"," ") #each password is now just a 1-liner string with fields separated by space
     #
     # E.g.:
     # "hcl:#888785
