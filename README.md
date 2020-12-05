@@ -5,7 +5,7 @@ My solutions to Programming Puzzles featured on [Advent of code](https://advento
 #### [Day 2](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day2)
 #### [Day 3](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day3)
 #### [Day 4](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day4)
-#### Day 5
+#### [Day 5](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day5)
 #### Day 6
 #### Day 7
 #### Day 8
