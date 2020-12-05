@@ -1,6 +1,3 @@
-# Advent of code 2020 Entries
-My solutions to Programming Puzzles featured on [Advent of code](https://adventofcode.com/), starting 1<sup>st</sup> Dec 2020
-
 ### **--- Day 1: Report Repair ---**
 After saving Christmas five years in a row, you've decided to take a vacation at a nice resort on a tropical island. Surely, Christmas will go on without you.
 
