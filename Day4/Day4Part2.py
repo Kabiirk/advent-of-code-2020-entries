@@ -13,12 +13,11 @@ passports = entries.split("\n\n") # => [string1, string2, ......]
 
 for i in range(len(passports)):
     passports[i] = passports[i].replace("\n"," ") #each password is now just a 1-liner string with fields separated by space
-    #
-    # E.g.:
+    # What the above line does is
+    # 
     # "hcl:#888785
     # hgt:164cm byr:2001 iyr:2015 cid:88   ===>   "hcl:#888785 hgt:164cm byr:2001 iyr:2015 cid:88 pid:545766238 ecl:hzl eyr:2022"
     # pid:545766238 ecl:hzl eyr:2022"
-    # 
 
 def validPassport(l):
     #Find Values of fields and put them in a list

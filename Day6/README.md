@@ -46,7 +46,7 @@ For each group, count the number of questions to which anyone answered "yes". Wh
 ### --- Day 6: Custom Customs(Part Two) ---
 As you finish the last group's customs declaration, you notice that you misread one word in the instructions:
 
-You don't need to identify the questions to which anyone answered "yes"; you need to identify the questions to which everyone answered "yes"!
+You don't need to identify the questions to which **anyone** answered "yes"; you need to identify the questions to which **everyone** answered "yes"!
 
 Using the same example as above:
 ```
