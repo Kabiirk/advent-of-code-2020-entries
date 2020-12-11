@@ -8,10 +8,10 @@ My solutions to Programming Puzzles featured on [Advent of code](https://advento
 #### [Day 5](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day5)
 #### [Day 6](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day6)
 #### [Day 7](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day7)
-#### Day 8
-#### Day 9
-#### Day 10
-#### Day 11
+#### [Day 8](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day8)
+#### [Day 9](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day9)
+#### [Day 10](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day10)
+#### [Day 11](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day7)
 #### Day 12
 #### Day 13
 #### Day 14
