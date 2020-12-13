@@ -13,7 +13,7 @@ My solutions to Programming Puzzles featured on [Advent of code](https://advento
 #### [Day 10](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day10)
 #### [Day 11](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day11)
 #### [Day 12](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day12)
-#### Day 13
+#### [Day 13](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day13)
 #### Day 14
 #### Day 15
 #### Day 16
