@@ -36,8 +36,7 @@ Given the starting numbers 3,1,2, the 2020th number spoken is 1836.
 Given your starting numbers, what will be the 2020th number spoken?
 
 Your puzzle input is 2,0,6,12,1,3.
-> **My Answer**
-> 972576
+> **My Answer** :972576
 #### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day15/Day15.py)
 
 ------
@@ -53,6 +52,5 @@ Given 2,3,1, the 30000000th number spoken is 6895259.
 Given 3,2,1, the 30000000th number spoken is 18.
 Given 3,1,2, the 30000000th number spoken is 362.
 Given your starting numbers, what will be the 30000000th number spoken?
-> **My Answer**
-> 972576
+> **My Answer** :972576
 #### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day15/Day15Part2.py)
