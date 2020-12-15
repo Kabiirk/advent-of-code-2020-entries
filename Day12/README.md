@@ -31,7 +31,8 @@ F11 would move the ship 11 units south to east 17, south 8.
 At the end of these instructions, the ship's Manhattan distance (sum of the absolute values of its east/west position and its north/south position) from its starting position is 17 + 8 = 25.
 
 Figure out where the navigation instructions lead. What is the Manhattan distance between that location and the ship's starting position?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries)
+> **My Answer**: 1710
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day12/Day12.py)
 
 ------
 
@@ -59,4 +60,5 @@ F11 moves the ship to the waypoint 11 times (a total of 44 units east and 110 un
 After these operations, the ship's Manhattan distance from its starting position is 214 + 72 = 286.
 
 Figure out where the navigation instructions actually lead. What is the Manhattan distance between that location and the ship's starting position?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries)
+> **My Answer**: 62045
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day12/Day12Part2.py)

@@ -42,7 +42,8 @@ time   bus 7   bus 13  bus 59  bus 31  bus 19
 The earliest bus you could take is bus ID 59. It doesn't depart until timestamp 944, so you would need to wait 944 - 939 = 5 minutes before it departs. Multiplying the bus ID by the number of minutes you'd need to wait gives 295.
 
 What is the ID of the earliest bus you can take to the airport multiplied by the number of minutes you'll need to wait for that bus?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries)
+> **My Answer**: 171
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day13/Day13.py)
 
 ------
 
@@ -105,4 +106,5 @@ The earliest timestamp that matches the list 17,x,13,19 is 3417.
 However, with so many bus IDs in your list, surely the actual earliest timestamp will be larger than 100000000000000!
 
 What is the earliest timestamp such that all of the listed bus IDs depart at offsets matching their positions in the list?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries)
+> **My Answer**: 539746751134958
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day13/Day13Part2.py)

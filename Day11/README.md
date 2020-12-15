@@ -89,7 +89,8 @@ L.#.L..#..
 At this point, something interesting happens: the chaos stabilizes and further applications of these rules cause no seats to change state! Once people stop moving around, you count ```37``` occupied seats.
 
 Simulate your seating area by applying the seating rules repeatedly until no seats change state. How many seats end up occupied?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries)
+> **My Answer**: 2448
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day11/Day11.py)
 
 ------
 
@@ -214,4 +215,5 @@ LLL###LLL#
 Again, at this point, people stop shifting around and the seating area reaches equilibrium. Once this occurs, you count ```26``` occupied seats.
 
 Given the new visibility method and the rule change for occupied seats becoming empty, once equilibrium is reached, how many seats end up occupied?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries)
+> **My Answer**: 2234
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day11/Day11Part2.py)

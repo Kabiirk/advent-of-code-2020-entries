@@ -35,7 +35,8 @@ result: 000000000000000000000000000001000000  (decimal 64)
 To initialize your ferry's docking program, you need the sum of all values left in memory after the initialization program completes. (The entire 36-bit address space begins initialized to the value 0 at every address.) In the above example, only two values in memory are not zero - 101 (at address 7) and 64 (at address 8) - producing a sum of 165.
 
 Execute the initialization program. What is the sum of all values left in memory after it completes?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries)
+> **My Answer**: 14954914379452
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day14/Day14.py)
 
 ------
 
@@ -84,4 +85,5 @@ This results in an address with three floating bits, causing writes to eight mem
 The entire 36-bit address space still begins initialized to the value 0 at every address, and you still need the sum of all values left in memory at the end of the program. In this example, the sum is 208.
 
 Execute the initialization program using an emulator for a version 2 decoder chip. What is the sum of all values left in memory after it completes?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries)
+> **My Answer**: 3415488160714
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day14/Day14Part2.py)

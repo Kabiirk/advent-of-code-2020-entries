@@ -43,7 +43,8 @@ The fourth passport is missing two fields, ```cid``` and ```byr```. Missing cid 
 According to the above rules, your improved system would report 2 valid passports.
 
 Count the number of valid passports - those that have all required fields. Treat cid as optional. In your batch file, how many passports are valid?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day4/Day4.py)
+> **My Answer**: 202
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day4/Day4.py)
 
 ------
 
@@ -116,4 +117,5 @@ eyr:2022
 iyr:2010 hgt:158cm hcl:#b6652a ecl:blu byr:1944 eyr:2021 pid:093154719
 ```
 Count the number of valid passports - those that have all required fields and valid values. Continue to treat ```cid``` as optional. In your batch file, how many passports are valid?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day4/Day4Part2.py)
+> **My Answer**: 137
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day4/Day4Part2.py)

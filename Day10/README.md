@@ -78,7 +78,8 @@ Here is a larger example:
 In this larger example, in a chain that uses all of the adapters, there are 22 differences of 1 jolt and 10 differences of 3 jolts.
 
 Find a chain that uses all of your adapters to connect the charging outlet to your device's built-in adapter and count the joltage differences between the charging outlet, the adapters, and your device. What is the number of 1-jolt differences multiplied by the number of 3-jolt differences?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries)
+> **My Answer**: 2482
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day10/Day10.py)
 
 ------
 
@@ -112,4 +113,5 @@ In this list, adding up all of the numbers from 15 through 40 produces the inval
 To find the encryption weakness, add together the smallest and largest number in this contiguous range; in this example, these are 15 and 47, producing 62.
 
 What is the encryption weakness in your XMAS-encrypted list of numbers?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries)
+> **My Answer**: 96717311574016
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day10/Day10Part2.py)

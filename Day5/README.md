@@ -37,7 +37,8 @@ FFFBBBFRRR: row 14, column 7, seat ID 119.
 BBFFBBFRLL: row 102, column 4, seat ID 820.
 ```
 As a sanity check, look through your list of boarding passes. What is the highest seat ID on a boarding pass?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day5/Day5.py)
+> **My Answer**: 806
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day5/Day5.py)
 
 ------
 
@@ -49,4 +50,5 @@ It's a completely full flight, so your seat should be the only missing boarding 
 Your seat wasn't at the very front or back, though; the seats with IDs +1 and -1 from yours will be in your list.
 
 What is the ID of your seat?
-#### [Solution](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day5/Day5Part2.py)
+> **My Answer**: 562
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day5/Day5Part2.py)
