@@ -21,7 +21,7 @@ My solutions to Programming Puzzles featured on [Advent of code](https://advento
 #### [Day 18](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day18)
 #### [Day 19](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day19)
 #### [Day 20](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day20)
-#### Day 21
+#### [Day 21](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day21)
 #### Day 22
 #### Day 23
 #### Day 24
