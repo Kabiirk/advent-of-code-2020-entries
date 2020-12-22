@@ -17,7 +17,7 @@ while( (player1 and player2) ):
     card_p1 = player1.pop()
     card_p2 = player2.pop()
 
-    # based on comparison, but in appropriate stack at the bottom
+    # based on comparison, put in appropriate stack at the bottom
     if(card_p1 > card_p2):
         player1.insert(0, card_p1) 
         player1.insert(0, card_p2)
