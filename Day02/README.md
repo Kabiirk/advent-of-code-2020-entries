@@ -19,7 +19,7 @@ In the above example, ```2``` passwords are valid. The middle password, ```cdefg
 
 How many passwords are valid according to their policies?
 > **My Answer**: 572
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day2/Day2.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day02/Day2.py)
  
 ------
  
@@ -38,4 +38,4 @@ Given the same example list from above:
 ```
 How many passwords are valid according to the new interpretation of the policies?
 > **My Answer**: 306
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day2/Day2Part2.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day02/Day2Part2.py)

@@ -24,7 +24,7 @@ In this list, the two entries that sum to 2020 are ```1721``` and ```299```. Mul
 
 Of course, your expense report is much larger. Find the two entries that sum to 2020; what do you get if you multiply them together?
 > **My Answer**: 972576
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day1/Day1.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day01/Day1.py)
 
 ------
 
@@ -35,4 +35,4 @@ Using the above example again, the three entries that sum to 2020 are ```979```,
 
 In your expense report, what is the product of the three entries that sum to 2020?
 > **My Answer**: 199300880
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day1/Day1Part2.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day01/Day1Part2.py)

@@ -40,7 +40,7 @@ This list represents answers from five groups:
 
 For each group, count the number of questions to which anyone answered "yes". What is the sum of those counts?
 > **My Answer**: 6714
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day6/Day6.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day06/Day6.py)
 
 ------
 
@@ -78,4 +78,4 @@ This list represents answers from five groups:
 
 For each group, count the number of questions to which everyone answered "yes". What is the sum of those counts?
 > **My Answer**: 3435
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day6/Day6Part2.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day06/Day6Part2.py)

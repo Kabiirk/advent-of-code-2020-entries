@@ -53,7 +53,7 @@ In this example, traversing the map using this slope would cause you to encounte
 
 Starting at the top-left corner of your map and following a slope of ```right 3``` and ```down 1```, how many trees would you encounter?
 > **My Answer**: 203
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day3/Day3.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day03/Day3.py)
  
 ------
  
@@ -72,4 +72,4 @@ In the above example, these slopes would find ```2, 7, 3, 4,``` and ```2``` tree
 
 What do you get if you multiply together the number of trees encountered on each of the listed slopes?
 > **My Answer**: 3316272960
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day3/Day3Part2.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day03/Day3Part2.py)

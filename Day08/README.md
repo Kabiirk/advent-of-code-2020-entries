@@ -40,7 +40,7 @@ Immediately before the program would run an instruction a second time, the value
 
 Run your copy of the boot code. Immediately before any instruction is executed a second time, what value is in the accumulator?
 > **My Answer**: 1810
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day8/Day8.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day08/Day8.py)
 
 ------
 
@@ -79,4 +79,4 @@ After the last instruction (acc +6), the program terminates by attempting to run
 
 Fix the program so that it terminates normally by changing exactly one jmp (to nop) or nop (to jmp). What is the value of the accumulator after the program terminates?
 > **My Answer**: 969
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day8/Day8.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day08/Day8.py)

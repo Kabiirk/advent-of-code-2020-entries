@@ -28,7 +28,7 @@ So, in this example, the number of bag colors that can eventually contain at lea
 
 How many bag colors can eventually contain at least one ```shiny gold``` bag? (The list of rules is quite long; make sure you get all of it.)
 > **My Answer**: 164
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day7/Day7.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day07/Day7.py)
 
 ------
 
@@ -58,4 +58,4 @@ In this example, a single shiny gold bag must contain ```126``` other bags.
 
 How many individual bags are required inside your single shiny gold bag?
 > **My Answer**: 7872
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day7/Day7Part2.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day07/Day7Part2.py)
