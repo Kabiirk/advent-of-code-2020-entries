@@ -79,4 +79,4 @@ To find the encryption weakness, add together the smallest and largest number in
 
 What is the encryption weakness in your XMAS-encrypted list of numbers?
 > **My Answer**: 4023754
-#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day09/Day9Part2.py)
+#### [Code](https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/Day09/Day9.py)
