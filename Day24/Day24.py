@@ -39,7 +39,7 @@ def part1(tiles_list, direction):
         else:
             blacks.remove((x, y))
 
-    return len(blacks), blacks
+    return len(blacks)#, blacks
 
 
 with open('day24.txt', 'r') as f:
@@ -49,5 +49,5 @@ with open('day24.txt', 'r') as f:
 direction = {'nw':(-1, -1), 'sw':(1, -1), 'ne':(-1, 1),
              'se':(1, 1), 'w':(0, -2), 'e':(0, 2)}
 
-ans, blacks = part1(tiles_list, direction)
+ans = part1(tiles_list, direction)
 print(ans)
