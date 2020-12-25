@@ -1,11 +1,12 @@
 day25 = open("day25.txt", "r")
 
-#each line in day1.txt -> each element of list as an integer
+#each line in day25.txt -> each Public Encryption Key
 public_keys = []
 for line in day25:
     public_keys.append(int(line))
 day25.close()
 
+#  Assigning Encryption Key
 card_public_key = public_keys[0]
 door_public_key = public_keys[1]
 
@@ -44,6 +45,9 @@ def get_common_encryption_key(public_key, loop_size):
 
 print(get_common_encryption_key(door_public_key, card_loop))
 # or print(get_common_encryption_key(card_public_key, door_loop)) since both give the same answer
+# Since both the answers are same , you only need one loop_size, hence
+# You can do away with calculating only 1 Loop Size and using that
+# to save time.
 
 # Ref :
 # 1) https://www.geeksforgeeks.org/implementation-diffie-hellman-algorithm/
@@ -60,12 +64,12 @@ print(get_common_encryption_key(door_public_key, card_loop))
  /'.''.'.\
  ^^^[_]^^^
 
-  __  __                         _____ _          _     _                          _   _ 
- |  \/  |                       / ____| |        (_)   | |                        | | | |
- | \  / | ___ _ __ _ __ _   _  | |    | |__  _ __ _ ___| |_ _ __ ___   __ _ ___   | | | |
- | |\/| |/ _ \ '__| '__| | | | | |    | '_ \| '__| / __| __| '_ ` _ \ / _` / __|  | | | |
- | |  | |  __/ |  | |  | |_| | | |____| | | | |  | \__ \ |_| | | | | | (_| \__ \  |_| |_|
- |_|  |_|\___|_|  |_|   \__, |  \_____|_| |_|_|  |_|___/\__|_| |_| |_|\__,_|___/  (_) (_)
-                         __/ |                                                      
-                        |___/                                                                                               
+  __  __                             _____  _            _       _                            _  _ 
+ |  \/  |                           / ____|| |          (_)     | |                          | || |
+ | \  / |  ___  _ __  _ __  _   _  | |     | |__   _ __  _  ___ | |_  _ __ ___    __ _  ___  | || |
+ | |\/| | / _ \| '__|| '__|| | | | | |     | '_ \ | '__|| |/ __|| __|| '_ ` _ \  / _` |/ __| | || |
+ | |  | ||  __/| |   | |   | |_| | | |____ | | | || |   | |\__ \| |_ | | | | | || (_| |\__ \ |_||_|
+ |_|  |_| \___||_|   |_|    \__, |  \_____||_| |_||_|   |_||___/ \__||_| |_| |_| \__,_||___/ (_)(_)
+                             __/ |                                                                 
+                            |___/                                                                                                                                                              
 '''
