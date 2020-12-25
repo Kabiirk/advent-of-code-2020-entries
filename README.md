@@ -25,4 +25,4 @@ My solutions to Programming Puzzles featured on [Advent of code](https://advento
 #### [Day 22](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day22)
 #### [Day 23](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day23)
 #### [Day 24](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day24)
-#### Day 25
+#### [Day 25](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day25)
