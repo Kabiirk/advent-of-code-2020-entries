@@ -1,10 +1,6 @@
 # Advent of code 2020 Entries
 My solutions to Programming Puzzles featured on [Advent of code](https://adventofcode.com/), starting 1<sup>st</sup> Dec 2020.
 
-<p align="center">
-  <img src="https://github.com/Kabiirk/advent-of-code-2020-entries/blob/main/media/aoc2020_completion.gif"/>
-</p>
-
 #### [Day 1](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day01)
 #### [Day 2](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day02)
 #### [Day 3](https://github.com/Kabiirk/advent-of-code-2020-entries/tree/main/Day03)
