@@ -40,7 +40,7 @@ def get_common_encryption_key(public_key, loop_size):
     return value
 
 # Printing card_loop and door_loop not required, but uncomment
-# if you verification required
+# if verification is required
 #print(card_loop, door_loop)
 
 print(get_common_encryption_key(door_public_key, card_loop))
